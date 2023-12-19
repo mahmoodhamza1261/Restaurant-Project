@@ -1,0 +1,38 @@
+{
+  "login": [
+    {
+      "name": "hamza",
+      "password": 123
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "talha12",
+      "email": "saltnpepper2@test.com",
+      "rating": "4.1",
+      "address": "islamabad",
+      "id": 5
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "rating": "4.3",
+      "address": "karachi",
+      "id": 6
+    },
+    {
+      "name": "SaltnPepper12",
+      "email": "saltnpepper2@test.com",
+      "rating": "4.0",
+      "address": "islamabad",
+      "id": 1
+    },
+    {
+      "name": "hamzaRR",
+      "email": "hamza@test.com",
+      "rating": "3",
+      "address": "delhi",
+      "id": 7
+    }
+  ]
+}
